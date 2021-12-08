@@ -1,0 +1,12 @@
+﻿  game.cpp
+D:\GitHub\minesweeper\minesweeper\game.cpp(65,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\GitHub\minesweeper\minesweeper\game.cpp(66,29): warning C4018: '<=': signed/unsigned mismatch
+D:\GitHub\minesweeper\minesweeper\game.cpp(123,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\GitHub\minesweeper\minesweeper\game.cpp(124,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  gamecontroller.cpp
+  minesweeper.cpp
+  blocks.cpp
+  toolbar.cpp
+  Generating Code...
+D:\GitHub\minesweeper\minesweeper\game.cpp(153): warning C4715: 'Game::detectSaveSpace': not all control paths return a value
+  minesweeper.vcxproj -> D:\GitHub\minesweeper\Debug\minesweeper.exe
